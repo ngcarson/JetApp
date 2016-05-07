@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/enemies.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/enemies.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/demon.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/demon.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/space.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/space.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/explosion.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/explosion.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/coins.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/coins.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/skull.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/skull.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/star.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/star.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cover.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/cover.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/brick.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/brick.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/desert.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/desert.png"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/jet4.png",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/drawable-nodpi/jet4.png"
+    }
+]

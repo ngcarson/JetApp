@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/raw/bkground.mp3",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/raw/bkground.mp3"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/raw/fly.wav",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/raw/fly.wav"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/raw/star.mp3",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/raw/star.mp3"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/raw/crash.mp3",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/raw/crash.mp3"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/raw/jump.wav",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/raw/jump.wav"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/raw/coins.mp3",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/raw/coins.mp3"
+    },
+    {
+        "merged": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/build/intermediates/res/merged/debug/raw/boom.wav",
+        "source": "/Users/ngcarson/AndroidStudioProjects/JetApp/app/src/main/res/raw/boom.wav"
+    }
+]
