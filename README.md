@@ -1,4 +1,4 @@
-# JetApp
+# JetApp Game
 
 A retro mobile gaming app for Android about spaceships.
 
